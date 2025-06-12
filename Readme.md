@@ -66,6 +66,11 @@ In order to update our 'causal' model, we need to do new randomized trials and p
 
 
 # Randomized record
-The 随机化记录.xlsx is the record of random decisions (including have Zinc selenium tablets, have VB tablets,have liquid calcium, and ejaculation) from 2024-11-06 to 2025-03-28. It can be used to study the impact of those decisions to stocks market when combining with stock market informations at that time. Or it can be used to study the causal effect from those decisions to other ends if you have any end information at that time. 
+
+The 个人随机用药记录.xlsx is the record of random individual decisions (including have Zinc selenium tablets, have VB tablets,have liquid calcium, and ejaculation) from 2024-11-06 to 2025-03-28. It can be used to study the impact of those decisions to stocks market when combining with stock market informations at that time. Or it can be used to study the causal effect from those decisions to other ends if you have any end information at that time. 
+
+The 知乎随机评论记录.xlsx is the multimodal record of random individual comment to Hot search at Zhihu by Baichuan Large Language Model from 2024-10-11 to 2024-11-02. It can be used to study the causal effect from the LLM's comment to the status of the hot question next day. 
+
+# Reference
 
 [1] Gentzel, Amanda M., Purva Pruthi, and David Jensen. "How and why to use experimental data to evaluate methods for observational causal inference." International Conference on Machine Learning. PMLR, 2021.
