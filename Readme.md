@@ -64,4 +64,8 @@ In order to update our 'causal' model, we need to do new randomized trials and p
 |Dryad Project||||https://datadryad.org/stash|
 | U.S. Department of Health and Human Services, National Institutes of Health, National Library of Medicine, and National Center for Biotechnology Information.||||https://clinicaltrials.gov/|
 
+
+# Randomized record
+The 随机化记录.xlsx is the record of random decisions (including have Zinc selenium tablets, have VB tablets,have liquid calcium, and ejaculation) from 2024-11-06 to 2025-03-28. It can be used to study the impact of those decisions to stocks market when combining with stock market informations at that time. Or it can be used to study the causal effect from those decisions to other ends if you have any end information at that time. 
+
 [1] Gentzel, Amanda M., Purva Pruthi, and David Jensen. "How and why to use experimental data to evaluate methods for observational causal inference." International Conference on Machine Learning. PMLR, 2021.
