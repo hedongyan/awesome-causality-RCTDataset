@@ -76,4 +76,5 @@ All the gambing-level true random number in those experiments' records are from 
 # Reference
 
 [1] Gentzel, Amanda M., Purva Pruthi, and David Jensen. "How and why to use experimental data to evaluate methods for observational causal inference." International Conference on Machine Learning. PMLR, 2021.
+
 [2] Yan, Hedong. "A Computational Theory for Efficient Mini Agent Evaluation with Causal Guarantees." arXiv preprint arXiv:2503.21138 (2025).
